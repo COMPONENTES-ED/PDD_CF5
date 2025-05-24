@@ -94,7 +94,7 @@
               </iframe>
             </div>
             <figcaption>
-              Vide. Preparación y modelado de datos para algoritmos de
+              Video. Preparación y modelado de datos para algoritmos de
               <em>machine learning</em>
             </figcaption>
           </figure>
