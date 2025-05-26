@@ -10,8 +10,8 @@
               img(src="@/assets/bullets/Seleccion_Multiple.svg", alt="")
         .col-12.col-md-8.col-lg-9
           .titulo-segundo
-            h2 Prueba de conocimientos sobre Preparación y modelado de datos para algoritmos de #[i machine learning].
-          p.mb-4 Validar el conocimiento adquirido sobre preparación y modelado de datos para algoritmos de #[i machine learning]. Esto se trabaja a partir de un conjunto de preguntas con el propósito de buscar una dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un conocimiento declarado dentro del componente.
+            h2 Prueba de conocimientos sobre Preparación y modelado de datos para algoritmos de #[i machine learning]
+          p.mb-4 Validar el conocimiento adquirido sobre Preparación y modelado de datos para algoritmos de #[i machine learning]. Esto se trabaja a partir de un conjunto de preguntas con el propósito de buscar una dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un conocimiento declarado dentro del componente.
           .tarjeta.actividad.p-3
             .row.justify-content-around.align-items-center            
               .col-sm.mb-3.mb-sm-0
